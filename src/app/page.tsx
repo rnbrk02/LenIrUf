@@ -35,11 +35,20 @@ export default function Home() {
             Наш Telegram
           </a>
           <a
-            href="mailto:barki_i@mail.ru"
+            href="https://t.me/elenabalko"
             className="px-4 py-2 border border-gray-800 text-gray-800 rounded-lg"
+            rel="noopener noreferrer"
           >
-            Напиши нам
+            Елена
           </a>
+          <a
+            href="https://t.me/Irina_ufimtseva_rielt"
+            className="px-4 py-2 border border-gray-800 text-gray-800 rounded-lg"
+            rel="noopener noreferrer"
+          >
+            Ирина
+          </a>
+
         </div>
       </div>
     </div>
