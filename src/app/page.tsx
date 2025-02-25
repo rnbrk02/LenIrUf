@@ -31,7 +31,7 @@ export default function Home() {
 <div className="mt-6 flex justify-center gap-4">
   <a
     href="https://t.me/rnbrk"
-    className="px-4 py-2 text-white rounded-lg"
+    className="px-4 py-2 text-white rounded-lg transform transition-all duration-300 hover:scale-110 hover:bg-[#018fb0] hover:shadow-lg"
     target="_blank"
     style={{ backgroundColor: "#01a3cf" }}
     rel="noopener noreferrer"
@@ -40,12 +40,13 @@ export default function Home() {
   </a>
   <a
     href="https://t.me/nmtuiii"
-    className="px-4 py-2 text-white rounded-lg"
+    className="px-4 py-2 text-white rounded-lg transform transition-all duration-300 hover:scale-110 hover:bg-[#018fb0] hover:shadow-lg"
     rel="noopener noreferrer"
     style={{ backgroundColor: "#01a3cf" }}
   >
     Напиши
   </a>
+
 </div>
       </div>
     </div>
