@@ -46,16 +46,18 @@ export default function Home() {
             href="https://t.me/rnbrk"
             className="px-4 py-2 bg-black text-white rounded-lg"
             target="_blank"
+            style={{ backgroundColor: "#01a3cf" }}
             rel="noopener noreferrer"
           >
             Telegram канал
           </a>
           <a
             href="https://t.me/nmtuiii"
-            className="px-4 py-2 border border-gray-800 text-gray-800 rounded-lg"
+            className="px-4 py-2 bg-black text-white rounded-lg"
             rel="noopener noreferrer"
+            style={{ backgroundColor: "#01a3cf" }}
           >
-            Личка
+            Напиши
           </a>
         </div>
       </div>
