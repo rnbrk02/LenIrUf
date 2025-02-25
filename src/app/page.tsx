@@ -19,25 +19,6 @@ export default function Home() {
             className="w-32 h-32 rounded-lg justify-self-end"
           />
         </div>
-
-        {/* Навыки */}
-        <div className="mt-4">
-          <h2 className="text-lg font-semibold">Что я делаю?</h2>
-          <ul className="list-disc list-inside text-gray-700">
-            <li>Придумываю и создаю механизмы, которые двигаются, работают и упрощают жизнь. Робототехника — моя стихия.</li>
-            <li>Разрабатываю сайты, которые не просто выглядят круто, а ещё и работают безупречно.</li>
-          </ul>
-        </div>
-
-        {/* Стиль */}
-        <div className="mt-4">
-          <h2 className="text-lg font-semibold">Как я работаю?</h2>
-          <ul className="list-disc list-inside text-gray-700">
-          <li>Беру идею → нахожу нестандартное решение → превращаю его в реальность. Будь то 3D-печатное крепление для манипулятора или стильный сайт, всё должно быть идеально!</li>
-          </ul>
-        </div>
-
-
         {/* Стиль */}
         <div className="mt-4">
           <h2 className="text-lg font-semibold">Давай что-нибудь замутим!</h2>
