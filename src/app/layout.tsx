@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Ленируф",
-  description: "Ленируф",
+  title: "Раян – Инженер и разработчик в сфере робототехники",
+  description: "Разрабатываю механизмы, программирую манипуляторы и создаю автоматизированные системы. Готов к сотрудничеству!",
 };
 
 export default function RootLayout({
