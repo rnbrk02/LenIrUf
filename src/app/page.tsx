@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-<div className="flex min-h-screen items-center justify-center bg-gray-100">
-  <div className="max-w-md w-full bg-white shadow-lg rounded-xl p-4 text-center">
+<div className="flex min-h-screen items-center justify-center bg-gray-90">
+  <div className="max-w-md w-full bg-white shadow-lg rounded-3xl p-4 text-center">
 
         {/* Заголовок по центру */}
         <h1 className="text-2xl font-bold text-gray-1000">Привет! Я Раян</h1>
