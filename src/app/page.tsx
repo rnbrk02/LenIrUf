@@ -1,11 +1,12 @@
 export default function Home() {
   return (
-    <div className="flex min-h-screen items-center justify-center bg-gray-100">
-      <div className="max-w-lg w-full bg-white shadow-lg rounded-2xl p-6 text-center">
+<div className="flex min-h-screen items-center justify-center bg-gray-100">
+  <div className="max-w-md w-full bg-white shadow-lg rounded-xl p-4 text-center">
+
         {/* Заголовок по центру */}
         <h1 className="text-2xl font-bold text-gray-1000">Привет! Я Раян</h1>
 
-        <div className="grid grid-cols-2 gap-100 items-center mt-6 text-center">
+        <div className="grid grid-cols-2 gap-100 items-center mt-2 text-center">
           {/* Текст слева */}
           <p className="text-gray-700">
             Люблю технологии, нестандартные задачи и запах свежесозданных проектов. 🚀
